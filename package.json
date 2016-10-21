@@ -1,0 +1,15 @@
+{
+  "name": "rq",
+  "version": "1.0.0",
+  "description": "requeue message by using AMQP",
+  "main": "index.js",
+  "dependencies": {
+    "amqplib": "0.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "karl.v.lam@gmail.com",
+  "license": "GPLv3"
+}
